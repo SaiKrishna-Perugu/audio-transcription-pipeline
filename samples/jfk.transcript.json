@@ -1,0 +1,27 @@
+{
+  "language": "en",
+  "language_probability": 0.9485595226287842,
+  "duration": 11.088,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.0,
+      "text": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "avg_logprob": -0.2736694355096136,
+      "words": []
+    }
+  ],
+  "text": "And so my fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+  "engine": "faster-whisper",
+  "processing_seconds": 2.76,
+  "source": {
+    "filename": "jfk.mp3",
+    "codec": "mp3",
+    "sample_rate": 16000,
+    "channels": 1,
+    "container": "mp3",
+    "chunks": 1
+  },
+  "word_count": 22,
+  "segment_count": 1
+}
